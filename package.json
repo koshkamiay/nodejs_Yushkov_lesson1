@@ -1,0 +1,18 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "Создать с помощью Node.js API консольную программу, которая будет выводить что-либо в консоль разными цветами и издавать звук(и) с помощью модуля или модулей, отличных от рассмотренного на уроке.",
+  "main": "color-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beer-names": "^1.0.1",
+    "colors": "^1.1.2",
+    "make-beep": "0.0.1",
+    "play-sound-v12": "^0.1.1"
+  }
+}
